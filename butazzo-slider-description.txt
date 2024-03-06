@@ -1,6 +1,7 @@
 <div class="user-html user-html__with-lazy-load"><a href="https://butazzo.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://butazzo.netlify.app/src/assets/img/doc.png" alt="Butazzo Slider - Online Documentation"></a>
-<h3 id="item-description__butazzo-fast-food-and-restaurant-responsive-bootstrap-slider">Butazzo – Fast Food and Restaurant Responsive Bootstrap Slider</h3>
-<p>Butazzo Slider is an all-in-one package that includes unique style and functionality. It provides you customizable sliders to help create dynamic and engaging web pages. <br><br>With Butazzo Slider you can quickly and easily add stunning slider to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get Butazzo Slider and take your website to the next level.</p>
+<h3 id="item-description__butazzo-fast-food-and-restaurant-responsive-bootstrap-slider">Butazzo – Fast Food and Restaurant Responsive Bootstrap v5 Slider</h3>
+<p><strong>Butazzo Slider</strong> is an all-in-one package that includes unique style and functionality. It provides you customizable sliders to help create dynamic and engaging web pages. <br><br>With <strong>Butazzo Slider</strong> you can quickly and easily add stunning slider to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get <strong>Butazzo Slider</strong> and take your website to the next level.</p>
+<img src="https://butazzo.netlify.app/src/assets/img/rate.png" alt="rate-us">
 <h3 id="item-description__why-choose-butazzo-slider">Why choose Butazzo Slider?</h3>
 <ul>
 <li>
@@ -34,7 +35,6 @@
 <h3 id="item-description__other-features">Other Features</h3>
 <ul>
 <li>Based on Bootstrap v5.1</li>
-<li>Validated Code HTML5, CSS3</li>
 <li>W3C HTML valid code</li>
 <li>Grid 1770 px</li>
 <li>FlatIcon Icons</li>
@@ -46,6 +46,7 @@
 <ul>
 <li>HTML File</li>
 <li>Supporting CSS Files</li>
+<li>Supporting JS Files</li>
 </li>
 <li>Documentation in HTML</li>
 </ul>
@@ -63,25 +64,40 @@
 <ul>
 <li><a href="https://fonts.google.com/specimen/Montserrat" rel="nofollow" target="_blank">Montserrat</a></li><li><a href="https://www.dafont.com/chunkfive-ex.font" rel="nofollow" target="_blank">ChunkFiveEx</a></li>
 </ul>
-<h3 id="item-description__images">Images:</h3>
+<h3 id="item-description__images-license">Images License:</h3><p>Thank you so much to the artists and authors who gave their permission to use their amazing works! <strong>THANK YOU!</strong></p>
 <ul>
 <li>All images used are taken from <a href="https://pixabay.com/" target="_blank">Pixabay</a>. Pixabay is a vibrant community of authors, artists and creators sharing royalty-free images, video, audio and other media.
 </li>
 </ul>
 <h3 id="item-description__documentation">Documentation</h3>
 <a href="https://butazzo.netlify.app/documentation/" rel="nofollow" target="_blank">Check the docs here</a>
+<h3 id="item-description__customization-services">Important Note:</h3>
+<ul>
+<li>All images are just used for Preview Purpose Only. They are not part of the HTML templates and are not included in the final purchase files.</li>
+<li>Images and videos shown on our demo site are not part of the template download package due to licensing limitations and hence we are providing placeholder images with recommended image size mentioned in it.</li>
+<li>Any type of code or CSS customization and feature addition/change is not part of item support scope as per Envato item <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107" target="_blank">support policy</a>.</li>
+<li>Included a documentation file for full instruction.</li>
+</ul>
 <h3 id="item-description__sources-and-credits">Sources and Credits</h3>
-<p><strong>Any media — Images and used in the preview are not included in the project you download. Images are only for demo purposes. Used images are replaced with placeholders. But included a documentation file for full instruction.</strong></p>
+<p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://butazzo.netlify.app/documentation/index.html#credits" target="_blank">link</a></p>
+<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p><p>We are grateful to you.
+</p><p><strong>– Alissio –</strong></p>
+
 <h3 id="item-description__change-log">Change Log:</h3>
+<p>V. 1.0.1 – 06.03.2024</p>
+<pre>- Added: Extra animation effects
+- Tweak: Improved Documentation
+</pre>
 <p>V. 1.0.0 – 29.02.2024</p>
 <pre>- Initial release</pre>
 <p>If you love our product, Don’t forget to rate it 5 stars</p>
 <p>
-<img src="https://xtremeup.netlify.app/img/icons/star.png" alt="star">
-<img src="https://xtremeup.netlify.app/img/icons/star.png" alt="star">
-<img src="https://xtremeup.netlify.app/img/icons/star.png" alt="star">
-<img src="https://xtremeup.netlify.app/img/icons/star.png" alt="star">
-<img src="https://xtremeup.netlify.app/img/icons/star.png" alt="star"> 
+<img src="https://butazzo.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://butazzo.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://butazzo.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://butazzo.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://butazzo.netlify.app/src/assets/img/star.png" alt="star"> 
 and let us know your feedback for a better update. Thank you
-<img src="https://xtremeup.netlify.app/img/icons/smile.png" alt="happy">
+<img src="https://butazzo.netlify.app/src/assets/img/smile.png" alt="happy">
 </div>

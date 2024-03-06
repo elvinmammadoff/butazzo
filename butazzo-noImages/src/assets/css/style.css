@@ -299,6 +299,12 @@ a:focus {
             transition-delay: .4s;
 }
 
+.carousel-caption .fade-medium {
+    -webkit-transition-delay: .6s;
+         -o-transition-delay: .6s;
+            transition-delay: .6s;
+}
+
 .carousel-indicators button[data-bs-target],
 .carousel-indicators button[data-bs-target].active {
     width: 13px;
